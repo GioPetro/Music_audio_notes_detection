@@ -1,5 +1,5 @@
-# Music_audio_notes_detection
-MAD|MR - Monophonic music Audio Detection for Midi Representation
+# MAD|MR - 
+Monophonic music Audio Detection for Midi Representation
 
 This is my Bachelor Thesis, when studying Computer Science at the University of Piraeus.
 
